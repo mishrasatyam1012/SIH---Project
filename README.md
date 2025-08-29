@@ -10,10 +10,10 @@ Tourists often find it difficult to access reliable information about destinatio
 **Expected Solution**
 
 ##### Design and develop an AI-powered digital tourism platform (mobile app and/or website) for Jharkhand that offers:
-• AI-based personalized itinerary planning and multilingual chatbot assistance for tourists.
-• Blockchain-enabled secure transactions, guide verification, and digital certification for local service providers.
-• Interactive maps and AR/VR previews of major tourist and cultural sites.
-• Real-time transport and location info using geo-location.
-• Integrated local marketplace for tribal handicrafts, events, homestays, and ecotourism.
-• AI-driven feedback and sentiment analysis for continuous improvement.
+• AI-based personalized itinerary planning and multilingual chatbot assistance for tourists.<br>
+• Blockchain-enabled secure transactions, guide verification, and digital certification for local service providers.<br>
+• Interactive maps and AR/VR previews of major tourist and cultural sites.<br>
+• Real-time transport and location info using geo-location.<br>
+• Integrated local marketplace for tribal handicrafts, events, homestays, and ecotourism.<br>
+• AI-driven feedback and sentiment analysis for continuous improvement.<br>
 • Analytics dashboard for tourism officials to monitor trends and impact.
