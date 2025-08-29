@@ -7,7 +7,7 @@ Jharkhand is blessed with natural beauty, tribal culture, historical landmarks, 
 
 Tourists often find it difficult to access reliable information about destinations, local transportation, accommodations, cultural activities, and guides. Additionally, local artisans, tribal communities, and small-scale service providers who could benefit greatly from tourism remain largely excluded from the digital ecosystem. There is a strong need for a centralized digital platform that not only improves the tourist experience through authentic and accessible information but also connects and empowers local communities, making tourism in Jharkhand more inclusive, organized, and sustainable.
 
-<u>**Expected Solution**</u><br><hr>
+<u>**Expected Solution**</u><br><hr height="1px">
 
 ##### <u>Design and develop an AI-powered digital tourism platform (mobile app and/or website) for Jharkhand that offers:</u>
 • AI-based personalized itinerary planning and multilingual chatbot assistance for tourists.<br>
